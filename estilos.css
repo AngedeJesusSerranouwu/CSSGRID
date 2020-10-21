@@ -58,7 +58,7 @@ body{
 
 .main{
     grid-area: main;
-    background-color: chocolate;
+    background-color: #9255F0;
 }
 
 .footer{
